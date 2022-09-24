@@ -1,6 +1,6 @@
 import React from 'react';
 
-const index = () => {
+const Blog = () => {
     return (
         <div>
             <h1>Blog page</h1>
@@ -8,4 +8,4 @@ const index = () => {
     );
 };
 
-export default index;
+export default Blog;
